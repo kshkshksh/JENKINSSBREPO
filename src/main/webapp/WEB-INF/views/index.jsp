@@ -7,7 +7,8 @@
 </head>
 <body>
 <h1>JSP PAGE</h1>
-
+즐거운 추석되세요!
+ㅎ
 
 </body>
 </html>
